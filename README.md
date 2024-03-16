@@ -6,4 +6,4 @@
 
 ## Examples
 
-`py print("balls")`
+py` print("balls")`
