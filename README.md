@@ -11,6 +11,8 @@ from BoardRendering import Board
 board = Board(size=20, default="0")
 board.set((2, 1), "1")
 
+print(board.display)
+
 # Result:
  # 000
  # 001
