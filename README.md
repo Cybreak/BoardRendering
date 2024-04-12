@@ -5,7 +5,7 @@
 2, Your done
 
 ## Examples
-py``` 
+```
 from BoardRendering import Board
 
 board = Board(size=20, default="0")
