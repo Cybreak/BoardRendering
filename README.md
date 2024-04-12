@@ -5,5 +5,12 @@
 2, Your done
 
 ## Examples
+py``` 
+from BoardRendering import Board
 
-py` print("balls")`
+board = Board(size=20, default="0")
+board.set((2, 1), "1")
+# Result:
+# 000
+# 001
+# 000```
