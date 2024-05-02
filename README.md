@@ -8,7 +8,7 @@
 ```
 from BoardRendering import Board
 
-board = Board(size=20, default="0")
+board = Board(size=3, default="0")
 board.set((2, 1), "1")
 
 print(board.display)
